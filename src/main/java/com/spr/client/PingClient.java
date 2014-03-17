@@ -21,6 +21,7 @@ public class PingClient
             System.out.println(line);
 
             in.close();
+
         }
         catch (Exception e)
         {
